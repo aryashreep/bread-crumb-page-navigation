@@ -1,0 +1,7 @@
+This class can be used to display bread crumbs links to pages visited by the user.
+
+It keeps track of pages visited by the user by storing their URLs in a session variable as HTML links.
+
+The class displays the breadcrumb links right after they are updated with the currently visited page.
+
+This class can generate bread crumb like navigation bars. It outputs an HTML ordered list of navigation links.
