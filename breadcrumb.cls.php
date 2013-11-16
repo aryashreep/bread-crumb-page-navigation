@@ -1,8 +1,8 @@
 <?php
 /*
 	Class breadcrumb
-	Author: Aryashree Pritikrishna - 96817 39228
-	Email Id: replyarya2u@gmail.com
+	Author: Aryashree Pritikrishna
+	Email Id: aryashree@etechbuddy.com
 	15/01/2010 - 17:25 PM	
 	
 	Description: This class can generate bread crumb like navigation bars
